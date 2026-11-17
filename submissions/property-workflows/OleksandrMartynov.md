@@ -36,7 +36,7 @@
   - спека `add-docai`: https://github.com/OleksandrMartynov/property-workflows/pull/97;
   - план `impl-docai` (заархівовано в PR реалізації): https://github.com/OleksandrMartynov/property-workflows/pull/96;
   - розділ «AI» плану: https://github.com/OleksandrMartynov/property-workflows/blob/5a3efc84c08567b1d0742ed26f22c34955fbb2fa/openspec/changes/archive/2026-11-16-impl-docai/design.md.
-- Після уточнень PM: `/requirements-sync` 2026-11-17 — вимоги актуальні: solomchaak/property-workflows-spec#59 оновлено 2026-11-16, той самий знімок.
+- Після уточнень PM: /requirements-sync 2026-11-17: Вимоги актуальні (solomchaak/property-workflows-spec#59 оновлено 2026-11-16 — той самий знімок, що в PR «Оновлення вимог»).
 - Golden cases PM у `cases.json`: https://github.com/OleksandrMartynov/property-workflows/blob/5a3efc84c08567b1d0742ed26f22c34955fbb2fa/tests/fixtures/golden/cases.json — GC-01…GC-10 з solomchaak/property-workflows-spec#40.
 - ADR на залежності:
   - залежності: https://github.com/OleksandrMartynov/property-workflows/blob/5a3efc84c08567b1d0742ed26f22c34955fbb2fa/docs/decisions/0008-ai-feature-openrouter.md;
